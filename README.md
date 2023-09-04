@@ -12,11 +12,11 @@ A análise exploratória foi feita sob o relatório abaixo;
 O relatório responda às seguintes perguntas;
 
 
-■ Qual a média dos valores das vendas?
-■ Qual foi o total de vendas?
-■ Qual o produto mais vendido?
-■ Qual a categoria com maior faturamento?
-■ Qual o número de vendas online?
+■ Qual a média dos valores das vendas?<br>
+■ Qual foi o total de vendas?<br>
+■ Qual o produto mais vendido?<br>
+■ Qual a categoria com maior faturamento?<br>
+■ Qual o número de vendas online?<br>
 ■ Qual o número de vendas presenciais?
 
 ## *Conclusão*
