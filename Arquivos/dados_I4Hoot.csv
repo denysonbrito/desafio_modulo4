@@ -1,0 +1,6 @@
+﻿ID venda,Data da venda,ID do cliente,Valor da venda,Produto vendido,Categoria do produto,Região da venda,Canal de venda
+1,2023-01-01,101,100.5,A,Eletrônico,Norte,Online
+2,2023-01-02,102,150.75,B,Moda,Sul,Presencial
+3,2023-01-03,103,200,A,Eletrônico,Sudeste,Presencial
+4,2023-01-04,104,120.25,C,Casa,Norte,Online
+5,2023-01-05,105,180.5,B,Moda,Sul,Online
