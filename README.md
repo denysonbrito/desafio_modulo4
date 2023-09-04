@@ -7,7 +7,7 @@ Analise do fluxo de vendas na empresa I4Hoot
 
 A análise exploratória foi feita sob o relatório abaixo;
 
-<img src="[https://github.com/denysonbrito/projeto_individual_modulo4/assets/128834623/20956231-8e8f-44e9-8a30-b0c0d82dbd35](https://github.com/denysonbrito/desafio_modulo4/issues/1#issue-1880900649)">
+<img src="https://github.com/denysonbrito/desafio_modulo4/issues/1#issue-1880900649">
 
 O relatório responda às seguintes perguntas;
 
