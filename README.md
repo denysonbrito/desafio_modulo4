@@ -1,5 +1,5 @@
 # Analise do fluxo de vendas na empresa I4Hoot
-Analise do fluxo de vendas na empresa I4Hoot
+A Empresa I4Hoot possui algumas vendas realizadas recentemente e necessita realizar algumas análises a fim de entender um pouco o fluxo de vendas de seu estabelecimento.
 
 ## *Descrição*
 
