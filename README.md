@@ -29,7 +29,8 @@ Sabendo que o fluxo de vendas foi de um período curto, mas ao examinar os dados
 - Git e Github <br />
   
 ## *Como usar*
-Baixe ou clone o repositório para seu computador, acesse a pasta arquivo e abra o arquivo desafiomodulo4 do tipo .ipynb ou acesse https://colab.research.google.com/, clique em ficheiro e depois clique na opção carregar bloco de notas, localize o arquivo em seu computador, vá em ficheiro, carregar para o armazenamento da sessão, procure pelo arquivo dados_I4Hoot, depois clique em tempo de execução e na opção executar tudo.
+Baixe ou clone o repositório para seu computador, acesse a pasta arquivo e abra o arquivo desafiomodulo4 do tipo .ipynb ou acesse https://colab.research.google.com/, clique em ficheiro e depois clique na opção carregar bloco de notas, localize o arquivo em seu computador e clique em carregar.
+Para carregar o arquivo com o fluxo de vendas no Colab, vá em ficheiro, carregar para o armazenamento da sessão, procure pelo arquivo dados_I4Hoot, depois clique em tempo de execução e na opção executar tudo.
 
 ## Quer colaborar, dar sugestões ou fazer elogios? entre em contato:
 <a href="https://www.linkedin.com/in/denyson-analista-de-dados/">
